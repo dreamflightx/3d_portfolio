@@ -6,7 +6,7 @@ import { menu, close } from '../assets';
 import { navLinks } from '../constants';
 
 const Navbar = () => {
-  const logo = "/logo.png";  // replace with your actual logo file name
+  const logo = "/Logo1.png";  // replace with your actual logo file name
 
   const [active, setActive] = useState('');
   const [toggle, setToggle] = useState('false');
